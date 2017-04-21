@@ -1,2 +1,5 @@
 # rtc-DS3231
-PICC DS3231 library
+Libreria DS3231
+
+
+Libreria RTC DS3231 para ser compilado con PICC.
